@@ -1,7 +1,4 @@
-# Survival-shooter-unity
-Survival shooter tutorial from https://unity3d.com/ru/learn/tutorials/projects/survival-shooter-tutorial
-
-Unity version 2017.1.1f1
+Unity version 2020.3.19f1
 
 ## Training Day Phases
 
